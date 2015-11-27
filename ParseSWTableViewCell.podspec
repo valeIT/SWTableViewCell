@@ -7,6 +7,7 @@ Pod::Spec.new do |s|
   s.license  = 'MIT'
   s.source   = { :git => 'https://github.com/valeIT/SWTableViewCell.git', :tag => s.version.to_s }
   s.source_files = 'SWTableViewCell/PodFiles/*.{h,m}'
+   s.dependency 'ParseUI'
   s.platform = :ios
   s.ios.deployment_target = '6.0'
   s.requires_arc = true
