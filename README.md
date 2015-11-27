@@ -13,7 +13,7 @@ An easy-to-use PFTableViewCell subclass that implements a swipeable content view
 
 ##Usage
 In your Podfile:
-<pre>pod 'ParseSWTableViewCell', '~> 0.3.7'</pre>
+<pre>pod 'ParseSWTableViewCell', '~> 0.3.8'</pre>
 
 Or just clone this repo and manually add source to project
 
