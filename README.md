@@ -1,8 +1,7 @@
 ParseSWTableViewCell
 ===============
 
-[![Build Status](https://travis-ci.org/addoshi/SWTableViewCell.svg?branch=master)](https://travis-ci.org/addoshi/SWTableViewCell)
-[![Coverage Status](https://coveralls.io/repos/addoshi/SWTableViewCell/badge.svg)](https://coveralls.io/r/addoshi/SWTableViewCell)
+[![Build Status](https://travis-ci.org/valeIT/SWTableViewCell.svg?branch=master)](https://travis-ci.org/valeIT/SWTableViewCell)
 
 <p align="center"><img src="http://i.imgur.com/njKCjK8.gif"/></p>
 
