@@ -1,7 +1,7 @@
 language: objective-c
 cache: cocoapods
-xcode_workspace: SWTableViewCell.xcworkspace
-xcode_scheme: SWTableViewCell
+xcode_workspace: ParseSWTableViewCell.xcworkspace
+xcode_scheme: ParseSWTableViewCell
 xcode_sdk: iphonesimulator
 
 before_install:

@@ -12,6 +12,7 @@
 #import "SWLongPressGestureRecognizer.h"
 #import "SWUtilityButtonTapGestureRecognizer.h"
 #import "NSMutableArray+SWUtilityButtons.h"
+#import <ParseUI/ParseUI.h>
 
 @class SWTableViewCell;
 
@@ -35,7 +36,7 @@ typedef NS_ENUM(NSInteger, SWCellState)
 
 @end
 
-@interface SWTableViewCell : UITableViewCell
+@interface SWTableViewCell : PFTableViewCell
 
 @property (nonatomic, copy) NSArray *leftUtilityButtons;
 @property (nonatomic, copy) NSArray *rightUtilityButtons;
