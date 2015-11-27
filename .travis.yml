@@ -3,6 +3,7 @@ cache: cocoapods
 xcode_workspace: ParseSWTableViewCell.xcworkspace
 xcode_scheme: ParseSWTableViewCell
 xcode_sdk: iphonesimulator
+osx_image: xcode7.1
 
 before_install:
   - gem install cocoapods slather -N
