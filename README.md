@@ -1,3 +1,6 @@
+DEPRECATED.
+This fork is no longer maintained.
+
 ParseSWTableViewCell
 ===============
 
